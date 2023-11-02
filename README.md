@@ -5,3 +5,5 @@
   2 - Maya
   3 - Zero
   4 - Axton
+  5 - Krieg
+  6 - Axton
